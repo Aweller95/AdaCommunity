@@ -1,0 +1,13 @@
+.container > p{
+  text-align: center;
+}
+
+footer{
+  background: #ccc;
+  height: 30px;
+}
+
+.form .container .row {
+  height: 50px;
+  color: #ccc;
+}
